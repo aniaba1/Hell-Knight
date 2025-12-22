@@ -1,8 +1,5 @@
 package io.github.aniaba1;
 
-
-
-
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
