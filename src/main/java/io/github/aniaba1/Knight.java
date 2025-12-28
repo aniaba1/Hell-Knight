@@ -4,7 +4,7 @@ public class Knight extends Enemy{
     Knight() {
         setName("Knight"); 
         setLevel(5);  
-        setHealth(50);
+        setHealth(20);
         setAttack(10);
         setDefense( 15);
         setAura(100) ;   

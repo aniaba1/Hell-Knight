@@ -41,7 +41,10 @@
                         <!-- Usage: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>io.github.aniaba1.App</mainClass>
+                            <mainClass>io.github.aniaba1.Menu</mainClass>
+                            <options>
+                                <option>--enable-native-access=javafx.graphics</option>
+                            </options>    
                         </configuration>
                     </execution>
                 </executions>

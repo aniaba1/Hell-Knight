@@ -49,12 +49,3 @@ public class App {
         return new Scene(hbox2, 400, 400);
     }
 }
-
-
-//  Scanner scanner = new Scanner(System.in);
-      //  System.out.println("Welcome to Aura Knight");
-      //  System.out.println("What is your name warrior");
-     //   String name = scanner.nextLine();
-      //  User user = new User(name);
-      //  System.out.println("Hello " + user);
-      //  scanner.close();

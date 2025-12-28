@@ -26,16 +26,4 @@ public class User {
       }
       return level;
     }
-/* 
-    public void stats() {
-            this.health = health;
-          //  this.attack = attack;
-            this.defense = defense;
-            this.aura = aura;
-        }*/
-    
-
-    
-
-
 }
